@@ -128,7 +128,7 @@ src/
     tools.ts              Tool functions and policy rules
     logger.ts             Event log with live subscribers
   data/
-    Customer.ts           Mock CRM: 15 customers and their orders
+    customer.ts           Mock CRM: 15 customers and their orders
     refund-policy.md      Official refund policy
 ```
 
