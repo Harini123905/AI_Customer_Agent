@@ -76,7 +76,7 @@ The full policy is in [`src/data/refund-policy.md`](src/data/refund-policy.md) a
 Requirements: Node.js 20 or newer and a free [Groq API key](https://console.groq.com).
 
 ```bash
-git clone <your-repository-url>
+ git clone https://github.com/Harini123905/AI_Customer_Agent.git
 cd refund-agent
 npm install
 ```
