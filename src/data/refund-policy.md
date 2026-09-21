@@ -10,12 +10,13 @@
 - Opened hygiene items (for example earphones, cosmetics, innerwear) are not refundable, unless they are defective.
 
 ## 3. Item Condition
-- Items must be unused and in original packaging.
+- For a change-of-mind refund, the item must be unused and in original packaging.
 - Items that are damaged or used by the customer are not refundable.
 
 ## 4. Defective or Wrong Items
 - If the item is defective or the wrong item was delivered, a refund can be requested within 60 days of delivery.
 - The customer must clearly describe the problem.
+- A defective item may have been opened, because the customer has to use it to find the defect. Items damaged by the customer are still not refundable.
 
 ## 5. Order Status
 - Orders that have not yet been delivered cannot be refunded; they should be cancelled instead.
